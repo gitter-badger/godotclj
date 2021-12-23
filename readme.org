@@ -3,3 +3,7 @@ These implement Clojure bindings for the godot engine.
 See https://github.com/tristanstraub/thecreeps-godotclj to see how to use it.
 
 This is not production quality.
+
+
+  #+ATTR_HTML: title="Join the chat at https://gitter.im/godotclj/community"
+  [[https://gitter.im/godotclj/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge][file:https://badges.gitter.im/godotclj/community.svg]]
